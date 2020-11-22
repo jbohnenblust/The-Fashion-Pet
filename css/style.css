@@ -1,0 +1,48 @@
+body {
+   background-color: #5e5c5c;
+}
+
+h1{
+    background-color: rgb(170, 189, 189);
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    justify-content: center;
+    text-shadow: 3px 3px rgb(214, 7, 7);
+    font-weight: 700;
+}
+
+nav{
+    background-color: #d6c8c8;
+    padding: 20px;
+    justify-content: center;
+    text-align: center;
+}
+
+a{
+    background-color: #d6c8c8;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: none;
+}
+
+a:hover{
+    background-color: tomato;
+}
+
+h2{
+    color: antiquewhite;
+    margin:30px 0 20px 0;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#pets{
+    color: antiquewhite;
+    margin-top: 1rem;
+    text-align: center;
+    justify-content: center;
+}
